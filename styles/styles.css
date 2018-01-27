@@ -1,1 +1,36 @@
+.header{
+  background-image: url("../images/header.gif");
+  background-position: right;
+  background-size: cover;
+}
 
+.about-me{
+  background-image: url("../images/square.gif");
+  background-size: contain;
+  background-position: 0 auto;
+}
+
+.contact{
+  background-image: url("../images/kewl.gif");
+  background-position: right;
+  background-size: auto;
+}
+
+.project-square{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  display: inline-block;
+  border-color: black;
+}
+
+.whitetext{
+  color: white;
+}
+
+.graytext{
+  color: grey:
+}
+
+.blacktext{
+  color: black;
+}
