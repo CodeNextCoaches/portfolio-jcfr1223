@@ -17,10 +17,10 @@
 }
 
 .project-square{
+  display: block;
+  margin: 0 auto;
   margin-top: 100px;
   margin-bottom: 100px;
-  display: inline-block;
-  border-color: black;
 }
 
 .whitetext{
@@ -38,4 +38,9 @@
 .about-me-text{
   text-align: center;
   margin-top: 30px;
+}
+
+.imgSize{
+  width: 756px;
+  height: 432px;
 }
